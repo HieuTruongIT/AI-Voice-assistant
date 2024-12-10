@@ -51,7 +51,7 @@ This project is an advanced AI Voice Assistant that integrates Text-to-Speech (T
 1. **Clone the repository:**
 
 ```sh
-git clone https://github.com/yourusername/AI-Voice-assistant.git
+git clone https://github.com/HieuTruongIT/AI-Voice-assistant.git
 cd AI-Voice-assistant
 ```
 
